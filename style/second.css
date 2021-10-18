@@ -1,0 +1,19 @@
+video{
+    width: 50%;
+    height: 40%;
+    margin: 40px 25% 40px 25%;
+}
+
+audio{
+    margin: 40px 10% 40px 10%;
+}
+
+#qrcode{
+    margin: 100px ;
+}
+
+.input-grp{
+    border: 2px ridge rgb(93, 93, 93);
+    margin: 10px 75% 10px 100px;
+    padding: 10px;
+}
